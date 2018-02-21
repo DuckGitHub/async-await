@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-
+//add a comment
 const carSchema = new Schema({
   make: String,
   model: String,
